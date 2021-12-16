@@ -1,0 +1,9 @@
+.footer__social-icon {
+    width: 16px;
+    height: 16px;
+    margin-bottom: 10px;
+}
+
+.footer__social-icon:last-of-type {
+    margin-bottom: 0;
+}

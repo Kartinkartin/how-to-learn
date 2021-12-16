@@ -1,0 +1,9 @@
+.cards__description {
+    flex-wrap: wrap;
+    line-height: 23px;
+    font-size: 18px;
+    font-weight: normal;
+    width: 100%;
+    text-align: center;
+    margin: 0;
+}
