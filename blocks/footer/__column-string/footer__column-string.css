@@ -1,0 +1,10 @@
+.footer__column-string {
+    font-size: 18px;
+    line-height: 18px;
+    font-weight: normal;
+    margin-bottom: 10px;
+}
+
+.footer__column-string:last-of-type {
+    margin-bottom: 0;
+}
